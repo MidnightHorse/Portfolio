@@ -38,14 +38,14 @@ export const About = () => {
         <p className={styles.sectionSubText}>Introduction</p>
         <h2 className={` ${styles.sectionHeadText} text-center`}>Education</h2>
         <p className='mt-4 pr-4 col-span-2 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-        <p>Bachelor in Computer Science @ University of California Riverside | 2021 - 2024</p>
+        <p>Bachelor in Computer Science @ University of California Riverside</p>
         <p>
-        Associates in Mathematics and Technology @ San Diego Mesa College | 2019 - 2021
+        Associates in Mathematics and Technology @ San Diego Mesa College
         </p>
         </p>
         <h2 className={` ${styles.sectionHeadText} text-center`}>About Me</h2>
         <p className='mt-4 pr-4 col-span-2 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-        <p>I'm Austin, a new graduate from the University of California Riverside.</p>
+        <p>I'm Austin, Studying CS from the University of California Riverside.</p>
         <br />
         <p>
           I am passionate about software development and looking to build my
